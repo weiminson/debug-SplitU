@@ -10,4 +10,4 @@
     - scikit-image, oyaml, tqdm
     - Python 3.6
 
-- Run:run tain.py
+- Run: python3 tain.py
